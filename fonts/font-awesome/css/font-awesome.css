@@ -948,6 +948,9 @@
 .fa-smile-o:before {
   content: "\f118";
 }
+.fa-smile-wink:before {
+  content: "\f4da";
+}
 .fa-frown-o:before {
   content: "\f119";
 }
